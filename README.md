@@ -1,2 +1,1 @@
-"# example-multi-language-codeigniter" 
-# example-multi-language-codeigniter
+# Sample Multy Language Codeigniter
